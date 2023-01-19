@@ -1,1 +1,3 @@
-# arduino-testing
+# arduino-playground
+
+arduino-playground
